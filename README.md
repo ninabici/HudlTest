@@ -1,6 +1,6 @@
 HudlLoginTest
 
-In order to execute all test the following paraneters mut be filled with valid data: 
+In order to execute all test the following parameters must be filled with valid data: 
 username=##enter valid username## 
 password=##enter password that matches the valid username## 
 lowercasePassword=##enter lowercase version of password property## 
